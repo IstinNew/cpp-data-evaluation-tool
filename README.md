@@ -20,4 +20,7 @@ README.md: Contains instructions on how to use the program.
 
 main.cpp: The main C++ code file.
 
-data.csv: Example CSV file with numerical data. (Google Colab generated output)
+## Data Evaluation Output
+
+Mean: 15.0733 Median: 14.75 Mode: 15.3
+ 
