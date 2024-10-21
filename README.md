@@ -1,5 +1,5 @@
 ## cpp-data-evaluation-tool
-A C++ program that reads a CSV file, performs basic statistical analysis (mean, median, mode), and outputs the results. This tool demonstrates fundamental data evaluation techniques using C++.
+A C++ program that reads a CSV file (created with Google Colab/Python), performs basic statistical analysis (mean, median, mode), and outputs the results. This tool demonstrates fundamental data evaluation techniques using C++.
 
 ## Basic Data Evaluation Tool in C++
 This repository contains a simple C++ program that reads a CSV file, performs basic statistical analysis (mean, median, mode), and outputs the results. This tool demonstrates fundamental data evaluation techniques using C++.
@@ -20,4 +20,4 @@ README.md: Contains instructions on how to use the program.
 
 main.cpp: The main C++ code file.
 
-data.csv: Example CSV file with numerical data.
+data.csv: Example CSV file with numerical data. (Google Colab generated output)
